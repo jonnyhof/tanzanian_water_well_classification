@@ -1,3 +1,12 @@
+# Ignore data folder
+data/
+
+# Ignore 'scratch' notebook
+scratch.ipynb
+
+# Ignore Jupyter NB DS Store files
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
