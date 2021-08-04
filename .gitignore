@@ -3,6 +3,7 @@ data/
 
 # Ignore 'scratch' notebook
 scratch.ipynb
+scratch2.ipynb
 
 # Ignore Jupyter NB DS Store files
 .DS_Store
