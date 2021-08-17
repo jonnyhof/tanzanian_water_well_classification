@@ -4,6 +4,7 @@ data/
 # Ignore 'scratch' notebook
 scratch.ipynb
 scratch2.ipynb
+prep_pipelines.ipynb
 
 # Ignore Jupyter NB DS Store files
 .DS_Store
