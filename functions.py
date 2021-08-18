@@ -36,7 +36,6 @@ def metrics_matrix(classifier, x_train, y_train, x_test, y_test):
         train_rec = recall_score(y_train, train_preds, average='weighted')
         test_rec = recall_score(y_test, test_preds, average='weighted')
         
-        
         # Print the results
         print("\033[1m" + 'Train Scores:' + "\033[0m")
         print(
@@ -55,3 +54,4 @@ def metrics_matrix(classifier, x_train, y_train, x_test, y_test):
         plot_confusion_matrix(classifier, x_test, y_test, xticks_rotation=30)
         plt.title('Testing Set Confusion Matrix')
         plt.show(); 
+        
