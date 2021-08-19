@@ -30,7 +30,7 @@ After creating a baselin model, three differnet machine learning model types wer
 
 To evaluate the models, a combination of f1 score and accuracy were used, along with confusion matricies to visualize the results. Here is an example of the results from the best performing Random Forest model:
 
-![results](data/images/rf_results.jpg)
+![results](/data/images/rf_results.jpg)
 
 The random forest performed the best out of the box, and parameter tuning was able to improve scores by about 2%. This model suffered from the most over-fitting, but the tuning was able to improve that as well. The random forest is the model I would move forward with into future iterations. A ceiling was hit with what was capable with parameter tuning, so future iterations will involve refining our feature selection and improving preprocessing techniques like imputation strategies. 
 
