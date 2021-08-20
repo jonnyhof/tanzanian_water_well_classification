@@ -46,4 +46,6 @@ The SVC model performed much worse than the other two, and took significantly lo
 
 Moving forward with these models means understanding the dataset better and finding which features produce signal and which are just noise. This will be the best way to improve testing accuracy and combat overfitting. 80% accuracy is not a bad starting point, so next steps also involve understanding the Tanzanian Ministry of Water's goals for repair to find how we can help them make actionable decision and best practices for efficienty addressing and repairing non functional waterpoints.
 
-##### **Thanks for reading!**
+This can be done by exploring maps like the one created above, comparing it to a population heatmap, or performing different sorting for types of pump repair, or whatever is needed by the TSM to help determine action.
+
+##### **Thanks for reading! Stay Hydrated!**
