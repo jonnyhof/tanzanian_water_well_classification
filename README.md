@@ -16,9 +16,7 @@ In order to better understand waterpoint functionality accross the country, the 
 
 The image below shows the number of repairs needed for each Ward in Tanzania. Wards without data are shown in gray.
 
-![wardmap](images/ward_repairs_map_copper.jpg)
-
-<img src="images/ward_repairs_map_copper.jpg" alt="map" width="900"/>
+<img src="images/ward_repairs_map_copper.jpg" alt="map" width="850"/>
 
 ### *Data*
 
