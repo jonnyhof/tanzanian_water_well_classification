@@ -18,7 +18,7 @@ The image below shows the number of repairs needed for each Ward in Tanzania. Wa
 
 ![wardmap](images/ward_repairs_map_copper.jpg)
 
-<img src="images/ward_repairs_map_copper.jpg" alt="map" width="800"/>
+<img src="images/ward_repairs_map_copper.jpg" alt="map" width="900"/>
 
 ### *Data*
 
