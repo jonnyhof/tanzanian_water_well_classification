@@ -18,6 +18,8 @@ The image below shows the number of repairs needed for each Ward in Tanzania. Wa
 
 ![wardmap](images/ward_repairs_map_copper.jpg)
 
+<img src="images/ward_repairs_map_copper.jpg" alt="map" width="800"/>
+
 ### *Data*
 
 The target in the data we would like to predict is 'status_group' and is reported in three classes - 'functional', 'non functional', and 'functional needs repair'. There is slight class imbalance in the target, functional makes up 54.4% of the rows, non functional and functional needs repair make up 38.4% and 7.2% respectively. The goal is to produce a ternary classification model that can label predict all three status groups. 
