@@ -14,6 +14,10 @@ This classification and analysis in the follows the CRISP-DM process for data mi
 
 In order to better understand waterpoint functionality accross the country, the Tanzanian Ministry of Water would like to build a classification model that predicts the status of waterpoint pumps with unknown functionality. With an accurate model and a more complete understanding of functionality, they can more efficiently address repairs. Further down the road, information from the model can be used help to inform them of patterns of how and why pumps fail.
 
+The image below shows the number of repairs needed for each Ward in Tanzania. Wards without data are shown in gray.
+
+![wardmap](images/ward_repairs_map_copper.jpg)
+
 ### *Data*
 
 The target in the data we would like to predict is 'status_group' and is reported in three classes - 'functional', 'non functional', and 'functional needs repair'. There is slight class imbalance in the target, functional makes up 54.4% of the rows, non functional and functional needs repair make up 38.4% and 7.2% respectively. The goal is to produce a ternary classification model that can label predict all three status groups. 
